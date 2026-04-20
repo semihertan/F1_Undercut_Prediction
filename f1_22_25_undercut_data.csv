@@ -1,0 +1,685 @@
+Race,Driver,Car_Ahead,Gap,Driver_TyreLife,Ahead_TyreLife,Tyre_Advantage,Success
+Bahrain Grand Prix,1,16,3.727,16.0,13.0,-3.0,0
+Bahrain Grand Prix,1,16,4.177,15.0,17.0,2.0,0
+Bahrain Grand Prix,11,55,2.883,12.0,9.0,-3.0,0
+Bahrain Grand Prix,14,31,2.733,13.0,10.0,-3.0,0
+Bahrain Grand Prix,14,22,2.659,16.0,12.0,-4.0,0
+Bahrain Grand Prix,20,63,8.013,13.0,16.0,3.0,0
+Bahrain Grand Prix,22,31,4.381,13.0,14.0,1.0,0
+Bahrain Grand Prix,23,18,6.672,21.0,16.0,-5.0,0
+Bahrain Grand Prix,27,4,3.34,17.0,12.0,-5.0,0
+Bahrain Grand Prix,3,23,6.187,15.0,19.0,4.0,0
+Bahrain Grand Prix,44,11,0.961,12.0,13.0,1.0,0
+Bahrain Grand Prix,6,3,1.921,13.0,13.0,0.0,0
+Bahrain Grand Prix,6,3,5.774,17.0,14.0,-3.0,0
+Bahrain Grand Prix,77,22,3.089,16.0,13.0,-3.0,0
+Saudi Arabian Grand Prix,3,18,0.364,7.0,8.0,1.0,0
+Australian Grand Prix,1,16,8.309,17.0,17.0,0.0,0
+Australian Grand Prix,11,16,16.34,19.0,19.0,0.0,0
+Australian Grand Prix,22,77,3.052,17.0,17.0,0.0,0
+Australian Grand Prix,31,3,4.93,16.0,16.0,0.0,0
+Australian Grand Prix,6,47,4.282,12.0,14.0,2.0,0
+Emilia Romagna Grand Prix,11,1,6.686,17.0,17.0,0.0,0
+Emilia Romagna Grand Prix,11,1,14.233,31.0,30.0,-1.0,0
+Emilia Romagna Grand Prix,63,4,7.645,17.0,17.0,0.0,0
+Emilia Romagna Grand Prix,16,11,2.756,29.0,30.0,1.0,0
+Emilia Romagna Grand Prix,5,20,2.93,16.0,16.0,0.0,0
+Emilia Romagna Grand Prix,10,31,5.743,16.0,16.0,0.0,0
+Emilia Romagna Grand Prix,3,47,4.032,15.0,15.0,0.0,0
+Miami Grand Prix,14,10,0.787,14.0,14.0,0.0,0
+Miami Grand Prix,16,1,4.531,23.0,23.0,0.0,0
+Miami Grand Prix,4,44,10.778,17.0,17.0,0.0,0
+Miami Grand Prix,44,77,6.87,21.0,21.0,0.0,0
+Miami Grand Prix,47,4,2.752,13.0,13.0,0.0,0
+Spanish Grand Prix,11,16,16.133,19.0,16.0,-3.0,0
+Spanish Grand Prix,63,11,5.288,22.0,18.0,-4.0,0
+Spanish Grand Prix,63,11,9.925,14.0,13.0,-1.0,0
+Spanish Grand Prix,55,22,0.632,12.0,9.0,-3.0,0
+Spanish Grand Prix,31,77,4.377,12.0,15.0,3.0,0
+Spanish Grand Prix,4,31,5.423,11.0,11.0,0.0,0
+Spanish Grand Prix,4,31,4.914,20.0,19.0,-1.0,0
+Spanish Grand Prix,14,22,3.707,20.0,19.0,-1.0,0
+Spanish Grand Prix,22,4,5.427,20.0,19.0,-1.0,0
+Spanish Grand Prix,22,14,5.655,22.0,20.0,-2.0,0
+Spanish Grand Prix,3,47,1.414,13.0,12.0,-1.0,0
+Spanish Grand Prix,10,3,6.262,18.0,20.0,2.0,0
+Spanish Grand Prix,47,14,5.237,20.0,19.0,-1.0,0
+Spanish Grand Prix,18,10,0.438,15.0,16.0,1.0,0
+Spanish Grand Prix,6,18,4.849,11.0,14.0,3.0,0
+Monaco Grand Prix,1,55,3.845,17.0,17.0,0.0,1
+Monaco Grand Prix,11,55,2.857,15.0,15.0,0.0,1
+Monaco Grand Prix,16,11,3.472,,,,0
+Monaco Grand Prix,23,24,1.755,17.0,17.0,0.0,0
+Monaco Grand Prix,24,5,0.965,18.0,12.0,-6.0,0
+Monaco Grand Prix,3,10,15.506,18.0,17.0,-1.0,0
+Monaco Grand Prix,31,4,18.615,20.0,,,0
+Monaco Grand Prix,4,1,12.823,16.0,16.0,0.0,0
+Monaco Grand Prix,47,23,0.391,12.0,16.0,4.0,0
+Monaco Grand Prix,6,18,0.959,16.0,16.0,0.0,0
+Monaco Grand Prix,63,1,13.075,20.0,,,0
+Monaco Grand Prix,77,44,14.305,19.0,,,0
+Azerbaijan Grand Prix,11,1,2.358,15.0,15.0,0.0,0
+Azerbaijan Grand Prix,23,18,0.625,19.0,29.0,10.0,0
+British Grand Prix,14,4,2.089,31.0,32.0,1.0,0
+British Grand Prix,18,10,0.79,15.0,13.0,-2.0,0
+British Grand Prix,31,1,3.649,20.0,9.0,-11.0,0
+British Grand Prix,47,3,0.335,17.0,18.0,1.0,0
+British Grand Prix,6,31,2.579,17.0,17.0,0.0,0
+Austrian Grand Prix,10,23,3.763,27.0,28.0,1.0,0
+Austrian Grand Prix,20,31,2.159,14.0,14.0,0.0,0
+Austrian Grand Prix,20,47,3.189,25.0,24.0,-1.0,0
+Austrian Grand Prix,23,10,0.679,10.0,10.0,0.0,0
+Austrian Grand Prix,23,3,5.14,29.0,28.0,-1.0,0
+Austrian Grand Prix,24,22,1.213,23.0,23.0,0.0,0
+Austrian Grand Prix,3,4,2.282,11.0,11.0,0.0,0
+Austrian Grand Prix,47,31,2.92,26.0,26.0,0.0,0
+Austrian Grand Prix,5,22,4.976,25.0,17.0,-8.0,0
+Austrian Grand Prix,63,4,0.963,28.0,25.0,-3.0,0
+Austrian Grand Prix,77,5,1.275,32.0,20.0,-12.0,1
+Hungarian Grand Prix,1,44,0.984,16.0,15.0,-1.0,0
+Hungarian Grand Prix,11,44,5.54,17.0,17.0,0.0,0
+Hungarian Grand Prix,20,6,4.627,28.0,16.0,-12.0,0
+Hungarian Grand Prix,22,5,1.597,12.0,12.0,0.0,0
+Hungarian Grand Prix,4,11,2.637,16.0,13.0,-3.0,0
+Hungarian Grand Prix,44,16,10.704,18.0,18.0,0.0,0
+Hungarian Grand Prix,6,47,3.201,20.0,17.0,-3.0,0
+Belgian Grand Prix,10,18,0.979,11.0,7.0,-4.0,0
+Belgian Grand Prix,11,1,3.174,13.0,13.0,0.0,0
+Belgian Grand Prix,11,1,11.661,12.0,11.0,-1.0,0
+Belgian Grand Prix,14,63,4.124,10.0,10.0,0.0,0
+Belgian Grand Prix,16,63,13.973,21.0,11.0,-10.0,0
+Belgian Grand Prix,20,22,2.031,15.0,8.0,-7.0,0
+Belgian Grand Prix,22,3,4.58,11.0,17.0,6.0,0
+Belgian Grand Prix,23,5,2.958,9.0,10.0,1.0,0
+Belgian Grand Prix,31,18,0.822,11.0,12.0,1.0,0
+Belgian Grand Prix,31,5,4.16,19.0,17.0,-2.0,0
+Belgian Grand Prix,47,6,2.153,13.0,11.0,-2.0,0
+Belgian Grand Prix,55,11,4.496,13.0,10.0,-3.0,0
+Belgian Grand Prix,63,11,3.596,12.0,12.0,0.0,0
+Belgian Grand Prix,63,1,22.909,15.0,13.0,-2.0,0
+Dutch Grand Prix,10,14,1.926,13.0,10.0,-3.0,0
+Dutch Grand Prix,14,22,0.254,11.0,14.0,3.0,0
+Dutch Grand Prix,16,1,4.442,19.0,16.0,-3.0,0
+Dutch Grand Prix,18,4,2.554,15.0,15.0,0.0,0
+Dutch Grand Prix,20,77,6.782,13.0,13.0,0.0,0
+Dutch Grand Prix,20,5,2.662,19.0,25.0,6.0,0
+Dutch Grand Prix,24,22,4.566,27.0,24.0,-3.0,0
+Dutch Grand Prix,47,31,2.087,12.0,12.0,0.0,0
+Dutch Grand Prix,5,3,0.371,8.0,8.0,0.0,0
+Dutch Grand Prix,55,16,6.57,16.0,16.0,0.0,0
+Dutch Grand Prix,6,20,1.585,12.0,12.0,0.0,0
+Dutch Grand Prix,77,23,1.491,15.0,15.0,0.0,0
+Dutch Grand Prix,77,24,3.623,17.0,24.0,7.0,0
+Italian Grand Prix,10,3,0.945,17.0,17.0,0.0,0
+Italian Grand Prix,24,45,0.942,17.0,17.0,0.0,0
+Italian Grand Prix,44,4,5.465,32.0,32.0,0.0,0
+Italian Grand Prix,6,22,2.129,14.0,14.0,0.0,0
+Italian Grand Prix,63,1,10.397,22.0,22.0,0.0,0
+Singapore Grand Prix,10,1,8.767,35.0,32.0,-3.0,0
+Singapore Grand Prix,16,11,2.637,33.0,33.0,0.0,0
+Singapore Grand Prix,5,1,9.3,33.0,33.0,0.0,0
+Japanese Grand Prix,10,24,0.305,4.0,4.0,0.0,0
+Japanese Grand Prix,18,22,1.081,11.0,11.0,0.0,0
+Japanese Grand Prix,20,47,0.642,4.0,4.0,0.0,0
+Japanese Grand Prix,22,3,0.479,4.0,4.0,0.0,0
+Japanese Grand Prix,24,10,1.145,8.0,10.0,2.0,0
+Japanese Grand Prix,63,14,1.775,4.0,4.0,0.0,0
+United States Grand Prix,24,22,0.398,8.0,8.0,0.0,0
+United States Grand Prix,44,1,4.373,11.0,11.0,0.0,0
+United States Grand Prix,44,1,1.532,21.0,20.0,-1.0,0
+United States Grand Prix,47,4,0.739,14.0,18.0,4.0,0
+United States Grand Prix,6,22,0.568,4.0,4.0,0.0,0
+United States Grand Prix,63,11,0.832,22.0,21.0,-1.0,0
+United States Grand Prix,77,4,0.577,9.0,9.0,0.0,0
+Mexico City Grand Prix,20,18,3.387,37.0,20.0,-17.0,0
+Mexico City Grand Prix,22,4,2.904,28.0,28.0,0.0,0
+Mexico City Grand Prix,4,31,3.557,30.0,30.0,0.0,0
+Mexico City Grand Prix,6,47,1.809,22.0,27.0,5.0,0
+São Paulo Grand Prix,1,23,1.096,15.0,18.0,3.0,0
+São Paulo Grand Prix,10,4,2.552,18.0,18.0,0.0,0
+São Paulo Grand Prix,11,63,3.408,22.0,22.0,0.0,0
+São Paulo Grand Prix,11,44,2.552,23.0,17.0,-6.0,0
+São Paulo Grand Prix,16,31,5.936,22.0,19.0,-3.0,0
+São Paulo Grand Prix,22,23,1.646,19.0,15.0,-4.0,0
+São Paulo Grand Prix,4,5,3.877,23.0,23.0,0.0,0
+São Paulo Grand Prix,4,31,8.035,20.0,20.0,0.0,0
+São Paulo Grand Prix,44,63,9.688,18.0,23.0,5.0,0
+São Paulo Grand Prix,6,1,0.069,19.0,12.0,-7.0,0
+Abu Dhabi Grand Prix,11,1,5.771,14.0,14.0,0.0,0
+Abu Dhabi Grand Prix,55,16,3.97,16.0,16.0,0.0,0
+Abu Dhabi Grand Prix,63,55,3.303,14.0,14.0,0.0,0
+Abu Dhabi Grand Prix,4,44,4.775,14.0,14.0,0.0,0
+Abu Dhabi Grand Prix,31,4,3.947,13.0,13.0,0.0,0
+Abu Dhabi Grand Prix,31,4,4.323,26.0,25.0,-1.0,0
+Abu Dhabi Grand Prix,18,22,0.947,12.0,12.0,0.0,0
+Abu Dhabi Grand Prix,18,31,4.695,27.0,25.0,-2.0,0
+Abu Dhabi Grand Prix,22,14,1.785,13.0,13.0,0.0,0
+Abu Dhabi Grand Prix,22,18,8.411,23.0,25.0,2.0,0
+Abu Dhabi Grand Prix,24,3,2.755,14.0,14.0,0.0,0
+Abu Dhabi Grand Prix,23,24,2.769,11.0,11.0,0.0,0
+Abu Dhabi Grand Prix,23,22,5.441,22.0,20.0,-2.0,0
+Abu Dhabi Grand Prix,77,47,2.615,29.0,15.0,-14.0,0
+Abu Dhabi Grand Prix,47,24,3.717,13.0,13.0,0.0,0
+Bahrain Grand Prix,10,24,0.501,8.0,8.0,0.0,0
+Bahrain Grand Prix,10,22,1.199,15.0,14.0,-1.0,0
+Bahrain Grand Prix,11,1,14.157,18.0,19.0,1.0,0
+Bahrain Grand Prix,16,1,8.714,12.0,15.0,3.0,0
+Bahrain Grand Prix,16,11,8.223,19.0,17.0,-2.0,0
+Bahrain Grand Prix,18,11,18.787,17.0,17.0,0.0,0
+Bahrain Grand Prix,18,63,2.096,14.0,16.0,2.0,0
+Bahrain Grand Prix,2,31,5.054,11.0,14.0,3.0,0
+Bahrain Grand Prix,20,24,8.212,13.0,16.0,3.0,0
+Bahrain Grand Prix,21,24,1.298,10.0,10.0,0.0,0
+Bahrain Grand Prix,21,24,1.954,15.0,14.0,-1.0,0
+Bahrain Grand Prix,22,2,0.97,9.0,9.0,0.0,0
+Bahrain Grand Prix,23,31,2.537,10.0,13.0,3.0,0
+Bahrain Grand Prix,23,77,6.318,14.0,14.0,0.0,0
+Bahrain Grand Prix,24,81,1.377,11.0,11.0,0.0,0
+Bahrain Grand Prix,27,21,4.631,14.0,14.0,0.0,0
+Bahrain Grand Prix,4,23,1.015,9.0,9.0,0.0,0
+Bahrain Grand Prix,44,55,3.496,14.0,14.0,0.0,0
+Bahrain Grand Prix,44,55,3.493,17.0,16.0,-1.0,0
+Bahrain Grand Prix,55,11,8.319,15.0,15.0,0.0,0
+Bahrain Grand Prix,55,16,12.806,17.0,17.0,0.0,0
+Bahrain Grand Prix,77,18,3.696,10.0,13.0,3.0,0
+Bahrain Grand Prix,77,18,8.47,17.0,13.0,-4.0,0
+Saudi Arabian Grand Prix,20,27,0.619,7.0,7.0,0.0,0
+Saudi Arabian Grand Prix,24,10,2.418,10.0,10.0,0.0,0
+Azerbaijan Grand Prix,10,2,0.648,4.0,4.0,0.0,0
+Azerbaijan Grand Prix,23,81,1.671,6.0,6.0,0.0,0
+Miami Grand Prix,63,55,3.449,16.0,16.0,0.0,0
+Miami Grand Prix,44,31,1.457,36.0,36.0,0.0,0
+Miami Grand Prix,10,63,2.935,14.0,14.0,0.0,0
+Miami Grand Prix,20,10,3.046,13.0,13.0,0.0,0
+Miami Grand Prix,22,44,4.581,35.0,35.0,0.0,0
+Miami Grand Prix,27,44,3.699,32.0,32.0,0.0,0
+Monaco Grand Prix,10,16,3.092,6.0,9.0,3.0,0
+Monaco Grand Prix,11,27,12.592,19.0,51.0,32.0,1
+Monaco Grand Prix,14,1,13.308,54.0,53.0,-1.0,0
+Monaco Grand Prix,21,4,2.963,52.0,2.0,-50.0,0
+Monaco Grand Prix,22,10,35.623,52.0,5.0,-47.0,0
+Monaco Grand Prix,24,27,4.521,50.0,50.0,0.0,1
+Monaco Grand Prix,4,22,5.53,49.0,49.0,0.0,1
+Monaco Grand Prix,44,55,2.699,30.0,30.0,0.0,0
+Monaco Grand Prix,44,55,3.079,22.0,20.0,-2.0,1
+Monaco Grand Prix,63,14,24.475,53.0,54.0,1.0,0
+Monaco Grand Prix,77,21,8.195,50.0,50.0,0.0,0
+Spanish Grand Prix,44,1,10.642,26.0,23.0,-3.0,0
+Spanish Grand Prix,44,1,16.257,25.0,23.0,-2.0,0
+Spanish Grand Prix,63,44,10.256,19.0,20.0,1.0,0
+Spanish Grand Prix,55,63,4.855,25.0,15.0,-10.0,0
+Spanish Grand Prix,16,10,3.137,15.0,18.0,3.0,0
+Spanish Grand Prix,16,14,12.246,24.0,24.0,0.0,0
+Spanish Grand Prix,81,14,7.127,21.0,22.0,1.0,0
+Spanish Grand Prix,21,16,4.793,28.0,21.0,-7.0,0
+Spanish Grand Prix,27,22,1.108,10.0,7.0,-3.0,0
+Spanish Grand Prix,23,77,1.368,20.0,31.0,11.0,0
+Spanish Grand Prix,20,27,3.551,13.0,15.0,2.0,0
+Canadian Grand Prix,11,55,6.338,36.0,36.0,0.0,0
+Canadian Grand Prix,14,1,4.945,28.0,28.0,0.0,0
+Canadian Grand Prix,16,44,3.583,38.0,26.0,-12.0,0
+Canadian Grand Prix,18,27,0.303,15.0,15.0,0.0,1
+Canadian Grand Prix,21,20,4.284,38.0,14.0,-24.0,0
+Canadian Grand Prix,22,20,0.433,32.0,33.0,1.0,1
+Canadian Grand Prix,24,22,0.806,19.0,30.0,11.0,0
+Canadian Grand Prix,27,24,0.622,19.0,18.0,-1.0,1
+Canadian Grand Prix,31,11,7.974,23.0,35.0,12.0,0
+Canadian Grand Prix,4,77,2.0,22.0,34.0,12.0,0
+Canadian Grand Prix,44,14,4.703,27.0,27.0,0.0,0
+Canadian Grand Prix,55,16,1.782,37.0,37.0,0.0,0
+Austrian Grand Prix,16,1,13.326,31.0,22.0,-9.0,0
+Austrian Grand Prix,18,31,0.719,20.0,21.0,1.0,0
+Austrian Grand Prix,21,24,5.028,24.0,28.0,4.0,0
+Austrian Grand Prix,24,2,6.051,29.0,23.0,-6.0,0
+Austrian Grand Prix,31,23,2.357,25.0,25.0,0.0,0
+Austrian Grand Prix,4,55,10.652,26.0,25.0,-1.0,0
+Austrian Grand Prix,44,55,12.151,27.0,26.0,-1.0,0
+Austrian Grand Prix,55,16,4.299,29.0,29.0,0.0,0
+Austrian Grand Prix,63,10,1.943,26.0,26.0,0.0,0
+Austrian Grand Prix,77,81,0.963,20.0,6.0,-14.0,0
+Austrian Grand Prix,77,22,2.112,18.0,16.0,-2.0,0
+British Grand Prix,11,10,1.246,27.0,27.0,0.0,0
+British Grand Prix,21,2,3.583,26.0,26.0,0.0,0
+British Grand Prix,24,21,3.173,23.0,23.0,0.0,0
+British Grand Prix,55,63,3.926,25.0,28.0,3.0,0
+British Grand Prix,63,81,5.693,30.0,27.0,-3.0,0
+Hungarian Grand Prix,4,81,2.066,16.0,18.0,2.0,0
+Hungarian Grand Prix,44,4,3.451,18.0,15.0,-3.0,0
+Hungarian Grand Prix,44,1,34.857,32.0,25.0,-7.0,0
+Hungarian Grand Prix,81,1,8.361,19.0,20.0,1.0,0
+Hungarian Grand Prix,81,4,8.384,23.0,24.0,1.0,0
+Hungarian Grand Prix,16,55,1.85,25.0,27.0,2.0,0
+Hungarian Grand Prix,55,16,3.349,14.0,17.0,3.0,0
+Hungarian Grand Prix,55,44,15.592,28.0,27.0,-1.0,0
+Hungarian Grand Prix,14,11,4.526,22.0,22.0,0.0,0
+Hungarian Grand Prix,3,2,0.614,13.0,18.0,5.0,0
+Hungarian Grand Prix,27,14,5.136,18.0,18.0,0.0,0
+Hungarian Grand Prix,2,20,1.333,12.0,12.0,0.0,0
+Belgian Grand Prix,11,1,8.87,15.0,14.0,-1.0,0
+Belgian Grand Prix,16,1,3.665,12.0,12.0,0.0,0
+Belgian Grand Prix,16,11,6.782,14.0,14.0,0.0,0
+Belgian Grand Prix,44,16,4.101,11.0,11.0,0.0,0
+Belgian Grand Prix,44,16,3.493,14.0,13.0,-1.0,0
+Belgian Grand Prix,14,44,8.43,9.0,9.0,0.0,0
+Belgian Grand Prix,18,10,0.5,19.0,19.0,0.0,0
+Belgian Grand Prix,22,14,3.949,8.0,8.0,0.0,0
+Belgian Grand Prix,22,14,13.705,14.0,13.0,-1.0,0
+Belgian Grand Prix,77,2,0.395,5.0,5.0,0.0,0
+Belgian Grand Prix,23,22,2.721,6.0,6.0,0.0,0
+Belgian Grand Prix,3,20,2.294,16.0,16.0,0.0,0
+Dutch Grand Prix,1,11,4.055,8.0,9.0,1.0,0
+Dutch Grand Prix,10,14,2.47,34.0,35.0,1.0,0
+Dutch Grand Prix,11,1,8.28,32.0,33.0,1.0,0
+Dutch Grand Prix,11,1,10.454,15.0,11.0,-4.0,0
+Dutch Grand Prix,14,4,0.531,1.0,1.0,0.0,1
+Dutch Grand Prix,14,10,1.832,7.0,14.0,7.0,0
+Dutch Grand Prix,14,1,13.54,37.0,36.0,-1.0,0
+Dutch Grand Prix,18,20,0.899,3.0,2.0,-1.0,0
+Dutch Grand Prix,20,22,1.634,7.0,12.0,5.0,0
+Dutch Grand Prix,20,24,1.619,25.0,24.0,-1.0,0
+Dutch Grand Prix,22,16,4.831,13.0,8.0,-5.0,0
+Dutch Grand Prix,23,10,10.514,43.0,32.0,-11.0,0
+Dutch Grand Prix,24,1,6.232,8.0,7.0,-1.0,0
+Dutch Grand Prix,31,44,0.266,1.0,1.0,0.0,1
+Dutch Grand Prix,31,23,4.488,32.0,42.0,10.0,0
+Dutch Grand Prix,44,4,17.843,5.0,5.0,0.0,0
+Dutch Grand Prix,44,23,4.383,14.0,15.0,1.0,0
+Dutch Grand Prix,55,10,3.789,30.0,29.0,-1.0,0
+Dutch Grand Prix,55,14,9.131,20.0,13.0,-7.0,0
+Dutch Grand Prix,63,31,1.328,43.0,16.0,-27.0,0
+Dutch Grand Prix,77,20,1.052,11.0,23.0,12.0,0
+Italian Grand Prix,18,31,1.903,19.0,19.0,0.0,0
+Italian Grand Prix,4,81,0.829,21.0,21.0,0.0,0
+Italian Grand Prix,55,1,3.822,18.0,18.0,0.0,0
+Italian Grand Prix,63,11,1.551,18.0,18.0,0.0,0
+Singapore Grand Prix,11,1,8.966,38.0,38.0,0.0,0
+Japanese Grand Prix,4,1,15.509,18.0,19.0,1.0,0
+Japanese Grand Prix,81,4,4.546,12.0,12.0,0.0,0
+Japanese Grand Prix,81,4,5.696,21.0,17.0,-4.0,0
+Japanese Grand Prix,16,81,4.318,16.0,20.0,4.0,0
+Japanese Grand Prix,44,55,2.119,15.0,15.0,0.0,0
+Japanese Grand Prix,44,55,3.652,17.0,15.0,-2.0,0
+Japanese Grand Prix,14,31,0.374,13.0,23.0,10.0,0
+Japanese Grand Prix,40,22,2.249,14.0,15.0,1.0,0
+Japanese Grand Prix,22,40,1.689,11.0,8.0,-3.0,0
+Japanese Grand Prix,24,11,1.995,8.0,7.0,-1.0,1
+Qatar Grand Prix,81,1,2.955,17.0,14.0,-3.0,0
+Qatar Grand Prix,63,1,22.432,17.0,17.0,0.0,0
+Qatar Grand Prix,63,1,25.553,17.0,15.0,-2.0,0
+Qatar Grand Prix,16,4,4.271,19.0,17.0,-2.0,0
+Qatar Grand Prix,14,81,2.815,15.0,16.0,1.0,0
+Qatar Grand Prix,31,16,2.347,16.0,17.0,1.0,0
+Qatar Grand Prix,31,14,4.315,17.0,16.0,-1.0,0
+Qatar Grand Prix,77,14,1.847,17.0,14.0,-3.0,0
+Qatar Grand Prix,77,31,1.686,17.0,13.0,-4.0,0
+Qatar Grand Prix,11,23,3.317,16.0,16.0,0.0,0
+Qatar Grand Prix,11,63,7.657,19.0,16.0,-3.0,0
+Qatar Grand Prix,11,10,4.568,17.0,16.0,-1.0,0
+Qatar Grand Prix,18,10,1.634,17.0,12.0,-5.0,0
+Qatar Grand Prix,10,4,1.555,17.0,17.0,0.0,0
+Qatar Grand Prix,20,11,6.564,17.0,13.0,-4.0,0
+Qatar Grand Prix,22,27,1.013,8.0,15.0,7.0,0
+Qatar Grand Prix,2,23,2.424,12.0,12.0,0.0,0
+Qatar Grand Prix,2,23,5.293,12.0,7.0,-5.0,0
+United States Grand Prix,1,44,4.645,15.0,15.0,0.0,0
+United States Grand Prix,4,1,3.066,16.0,17.0,1.0,0
+United States Grand Prix,55,44,4.955,17.0,14.0,-3.0,0
+United States Grand Prix,11,63,1.408,16.0,16.0,0.0,0
+United States Grand Prix,11,44,7.612,19.0,16.0,-3.0,0
+United States Grand Prix,63,16,5.704,20.0,20.0,0.0,0
+United States Grand Prix,18,14,8.51,19.0,20.0,1.0,0
+United States Grand Prix,22,10,4.066,16.0,16.0,0.0,0
+United States Grand Prix,22,10,6.482,16.0,15.0,-1.0,0
+United States Grand Prix,2,27,1.178,20.0,12.0,-8.0,0
+United States Grand Prix,27,18,2.583,18.0,18.0,0.0,0
+United States Grand Prix,77,23,2.286,17.0,17.0,0.0,0
+United States Grand Prix,24,23,1.197,17.0,16.0,-1.0,0
+United States Grand Prix,20,27,7.531,18.0,9.0,-9.0,0
+Mexico City Grand Prix,18,77,3.674,30.0,29.0,-1.0,0
+Mexico City Grand Prix,27,63,11.955,22.0,22.0,0.0,0
+Mexico City Grand Prix,63,3,3.663,25.0,25.0,0.0,0
+São Paulo Grand Prix,14,4,5.687,25.0,22.0,-3.0,0
+São Paulo Grand Prix,11,14,8.619,20.0,20.0,0.0,0
+São Paulo Grand Prix,11,14,3.332,25.0,20.0,-5.0,0
+São Paulo Grand Prix,18,14,12.558,22.0,22.0,0.0,0
+São Paulo Grand Prix,55,18,4.896,24.0,28.0,4.0,0
+São Paulo Grand Prix,44,55,4.883,27.0,19.0,-8.0,0
+São Paulo Grand Prix,27,22,9.044,21.0,18.0,-3.0,0
+São Paulo Grand Prix,27,31,10.348,27.0,17.0,-10.0,0
+São Paulo Grand Prix,81,3,4.676,22.0,25.0,3.0,0
+São Paulo Grand Prix,81,3,5.203,30.0,25.0,-5.0,0
+São Paulo Grand Prix,63,11,1.947,19.0,19.0,0.0,0
+São Paulo Grand Prix,63,10,1.383,25.0,18.0,-7.0,0
+São Paulo Grand Prix,24,77,1.765,12.0,12.0,0.0,0
+Las Vegas Grand Prix,2,44,0.262,14.0,14.0,0.0,0
+Las Vegas Grand Prix,20,44,2.814,13.0,13.0,0.0,0
+Las Vegas Grand Prix,44,31,2.113,16.0,16.0,0.0,0
+Las Vegas Grand Prix,81,31,0.807,16.0,15.0,-1.0,0
+Abu Dhabi Grand Prix,63,16,1.976,19.0,16.0,-3.0,0
+Abu Dhabi Grand Prix,11,22,3.076,16.0,16.0,0.0,0
+Abu Dhabi Grand Prix,11,1,16.499,24.0,25.0,1.0,0
+Abu Dhabi Grand Prix,4,16,3.03,13.0,13.0,0.0,0
+Abu Dhabi Grand Prix,4,63,2.861,18.0,18.0,0.0,0
+Abu Dhabi Grand Prix,81,63,1.52,12.0,12.0,0.0,0
+Abu Dhabi Grand Prix,44,10,0.618,14.0,14.0,0.0,0
+Abu Dhabi Grand Prix,44,14,1.926,19.0,23.0,4.0,0
+Abu Dhabi Grand Prix,2,23,1.897,15.0,15.0,0.0,0
+Bahrain Grand Prix,11,1,9.62,14.0,14.0,0.0,0
+Bahrain Grand Prix,11,1,18.435,23.0,18.0,-5.0,0
+Bahrain Grand Prix,55,1,11.947,16.0,16.0,0.0,0
+Bahrain Grand Prix,55,11,3.367,20.0,22.0,2.0,0
+Bahrain Grand Prix,16,11,1.316,13.0,13.0,0.0,0
+Bahrain Grand Prix,16,55,11.422,22.0,19.0,-3.0,0
+Bahrain Grand Prix,63,55,9.39,19.0,16.0,-3.0,0
+Bahrain Grand Prix,4,16,2.561,19.0,21.0,2.0,0
+Bahrain Grand Prix,44,81,2.181,20.0,20.0,0.0,0
+Bahrain Grand Prix,18,10,0.446,8.0,8.0,0.0,0
+Bahrain Grand Prix,24,20,0.689,8.0,8.0,0.0,0
+Bahrain Grand Prix,20,23,2.137,10.0,10.0,0.0,0
+Bahrain Grand Prix,20,22,5.895,20.0,17.0,-3.0,0
+Bahrain Grand Prix,3,23,4.977,15.0,12.0,-3.0,0
+Bahrain Grand Prix,3,23,1.69,21.0,19.0,-2.0,0
+Bahrain Grand Prix,22,14,2.486,13.0,16.0,3.0,0
+Bahrain Grand Prix,31,3,0.547,9.0,12.0,3.0,0
+Bahrain Grand Prix,31,3,5.897,19.0,16.0,-3.0,0
+Bahrain Grand Prix,10,3,0.896,11.0,14.0,3.0,0
+Saudi Arabian Grand Prix,44,4,4.311,35.0,35.0,0.0,0
+Australian Grand Prix,16,4,0.878,8.0,8.0,0.0,0
+Australian Grand Prix,20,77,1.958,6.0,7.0,1.0,1
+Australian Grand Prix,20,27,3.319,25.0,15.0,-10.0,0
+Australian Grand Prix,22,11,2.137,8.0,8.0,0.0,0
+Australian Grand Prix,22,18,2.561,26.0,28.0,2.0,0
+Australian Grand Prix,23,20,0.478,5.0,5.0,0.0,0
+Australian Grand Prix,27,22,5.312,17.0,25.0,8.0,0
+Australian Grand Prix,3,20,4.452,23.0,21.0,-2.0,0
+Australian Grand Prix,4,55,6.838,13.0,13.0,0.0,0
+Australian Grand Prix,4,55,10.127,26.0,23.0,-3.0,0
+Australian Grand Prix,44,22,0.466,6.0,6.0,0.0,0
+Australian Grand Prix,63,81,3.349,7.0,7.0,0.0,0
+Australian Grand Prix,81,4,8.056,30.0,25.0,-5.0,0
+Japanese Grand Prix,11,1,5.124,14.0,14.0,0.0,0
+Japanese Grand Prix,11,1,11.557,17.0,16.0,-1.0,0
+Japanese Grand Prix,4,11,3.081,10.0,10.0,0.0,0
+Japanese Grand Prix,14,55,5.304,12.0,11.0,-1.0,0
+Japanese Grand Prix,14,55,9.844,19.0,18.0,-1.0,0
+Japanese Grand Prix,81,14,1.437,11.0,11.0,0.0,0
+Japanese Grand Prix,81,14,4.494,19.0,18.0,-1.0,0
+Japanese Grand Prix,27,24,0.651,4.0,3.0,-1.0,0
+Japanese Grand Prix,77,22,0.681,5.0,7.0,2.0,0
+Japanese Grand Prix,31,2,6.994,13.0,10.0,-3.0,0
+Japanese Grand Prix,10,31,7.04,15.0,12.0,-3.0,0
+Chinese Grand Prix,18,24,2.009,8.0,11.0,3.0,0
+Chinese Grand Prix,27,77,0.603,7.0,7.0,0.0,0
+Chinese Grand Prix,3,55,12.93,13.0,13.0,0.0,0
+Emilia Romagna Grand Prix,4,1,6.503,21.0,21.0,0.0,0
+Emilia Romagna Grand Prix,81,55,0.902,22.0,22.0,0.0,0
+Emilia Romagna Grand Prix,63,81,3.221,20.0,20.0,0.0,0
+Emilia Romagna Grand Prix,22,27,0.845,11.0,11.0,0.0,0
+Emilia Romagna Grand Prix,24,20,3.952,32.0,32.0,0.0,0
+Monaco Grand Prix,44,1,1.442,49.0,49.0,0.0,0
+Canadian Grand Prix,10,55,0.942,14.0,14.0,0.0,0
+Canadian Grand Prix,20,11,1.678,15.0,15.0,0.0,0
+Canadian Grand Prix,3,31,2.504,16.0,42.0,26.0,0
+Canadian Grand Prix,44,81,0.641,17.0,17.0,0.0,0
+Canadian Grand Prix,77,3,0.496,41.0,15.0,-26.0,0
+Canadian Grand Prix,81,4,1.443,18.0,17.0,-1.0,0
+Spanish Grand Prix,44,4,5.833,26.0,19.0,-7.0,0
+Spanish Grand Prix,63,1,3.85,17.0,17.0,0.0,0
+Spanish Grand Prix,55,44,0.758,14.0,17.0,3.0,0
+Spanish Grand Prix,81,16,8.595,23.0,20.0,-3.0,0
+Spanish Grand Prix,31,10,9.111,23.0,22.0,-1.0,0
+Spanish Grand Prix,27,31,2.638,11.0,14.0,3.0,0
+Spanish Grand Prix,24,20,1.393,8.0,8.0,0.0,0
+Spanish Grand Prix,18,81,11.715,16.0,19.0,3.0,0
+Spanish Grand Prix,18,24,2.193,20.0,27.0,7.0,0
+Spanish Grand Prix,3,14,5.694,15.0,15.0,0.0,0
+Spanish Grand Prix,2,23,2.157,13.0,13.0,0.0,0
+Austrian Grand Prix,63,4,4.775,21.0,21.0,0.0,0
+Austrian Grand Prix,63,4,11.871,23.0,22.0,-1.0,0
+Austrian Grand Prix,55,4,16.147,24.0,23.0,-1.0,0
+Austrian Grand Prix,44,55,2.294,20.0,20.0,0.0,0
+Austrian Grand Prix,11,81,4.339,20.0,20.0,0.0,0
+Austrian Grand Prix,31,11,5.766,18.0,18.0,0.0,0
+Austrian Grand Prix,3,20,1.991,26.0,26.0,0.0,0
+Austrian Grand Prix,20,27,4.56,27.0,26.0,-1.0,0
+Austrian Grand Prix,10,11,7.891,19.0,19.0,0.0,0
+Austrian Grand Prix,14,3,1.344,24.0,24.0,0.0,0
+Austrian Grand Prix,23,22,1.365,26.0,17.0,-9.0,0
+Austrian Grand Prix,18,22,2.822,20.0,19.0,-1.0,0
+Austrian Grand Prix,77,18,2.023,18.0,19.0,1.0,0
+Austrian Grand Prix,77,18,2.214,22.0,21.0,-1.0,0
+Austrian Grand Prix,2,24,26.31,28.0,20.0,-8.0,0
+British Grand Prix,44,81,2.262,26.0,26.0,0.0,0
+British Grand Prix,44,4,1.935,10.0,10.0,0.0,0
+British Grand Prix,1,63,6.443,25.0,25.0,0.0,0
+British Grand Prix,81,55,0.967,9.0,11.0,2.0,0
+British Grand Prix,18,14,1.242,25.0,25.0,0.0,0
+British Grand Prix,14,18,8.069,10.0,11.0,1.0,0
+British Grand Prix,20,23,6.776,9.0,9.0,0.0,0
+British Grand Prix,3,2,14.203,25.0,25.0,0.0,0
+British Grand Prix,3,2,1.433,10.0,9.0,-1.0,0
+British Grand Prix,31,11,8.67,4.0,6.0,2.0,0
+British Grand Prix,24,31,20.142,6.0,18.0,12.0,0
+British Grand Prix,24,31,48.026,10.0,10.0,0.0,0
+Hungarian Grand Prix,4,81,3.502,16.0,16.0,0.0,0
+Hungarian Grand Prix,4,81,2.051,28.0,27.0,-1.0,0
+Hungarian Grand Prix,44,1,1.152,15.0,15.0,0.0,0
+Hungarian Grand Prix,44,4,8.817,23.0,23.0,0.0,0
+Hungarian Grand Prix,55,16,4.987,20.0,20.0,0.0,0
+Hungarian Grand Prix,55,1,8.901,25.0,25.0,0.0,0
+Hungarian Grand Prix,11,63,1.277,27.0,27.0,0.0,0
+Hungarian Grand Prix,27,10,0.695,26.0,28.0,2.0,0
+Belgian Grand Prix,16,44,2.421,12.0,13.0,1.0,0
+Belgian Grand Prix,1,4,0.869,9.0,9.0,0.0,0
+Belgian Grand Prix,4,55,3.192,14.0,14.0,0.0,0
+Belgian Grand Prix,55,4,4.831,7.0,12.0,5.0,0
+Belgian Grand Prix,11,16,2.344,10.0,10.0,0.0,0
+Belgian Grand Prix,14,4,7.818,12.0,12.0,0.0,0
+Belgian Grand Prix,31,14,2.727,11.0,11.0,0.0,0
+Belgian Grand Prix,3,77,0.728,7.0,7.0,0.0,0
+Belgian Grand Prix,3,23,0.798,12.0,12.0,0.0,0
+Belgian Grand Prix,23,14,1.033,7.0,7.0,0.0,0
+Belgian Grand Prix,10,31,1.31,8.0,8.0,0.0,0
+Belgian Grand Prix,77,31,2.065,10.0,10.0,0.0,0
+Belgian Grand Prix,22,20,2.182,14.0,14.0,0.0,0
+Belgian Grand Prix,27,18,1.246,6.0,6.0,0.0,0
+Belgian Grand Prix,63,81,1.018,9.0,9.0,0.0,0
+Dutch Grand Prix,1,4,5.654,26.0,26.0,0.0,0
+Dutch Grand Prix,55,81,7.811,29.0,29.0,0.0,0
+Dutch Grand Prix,11,81,5.147,28.0,28.0,0.0,0
+Dutch Grand Prix,63,1,6.361,24.0,24.0,0.0,0
+Dutch Grand Prix,14,10,3.668,30.0,30.0,0.0,0
+Dutch Grand Prix,3,18,3.302,28.0,28.0,0.0,0
+Dutch Grand Prix,18,14,4.665,29.0,29.0,0.0,0
+Dutch Grand Prix,24,2,5.751,17.0,17.0,0.0,0
+Italian Grand Prix,16,81,3.413,14.0,14.0,0.0,0
+Italian Grand Prix,4,16,0.953,13.0,13.0,0.0,0
+Italian Grand Prix,63,11,0.539,21.0,9.0,-12.0,0
+Italian Grand Prix,20,23,4.147,13.0,13.0,0.0,0
+Italian Grand Prix,14,23,0.965,12.0,11.0,-1.0,0
+Italian Grand Prix,43,18,4.195,15.0,16.0,1.0,0
+Italian Grand Prix,3,14,1.098,10.0,11.0,1.0,0
+Italian Grand Prix,31,14,4.88,30.0,19.0,-11.0,0
+Italian Grand Prix,10,77,1.098,19.0,30.0,11.0,0
+Italian Grand Prix,77,18,1.444,33.0,15.0,-18.0,0
+Italian Grand Prix,27,22,0.37,4.0,5.0,1.0,0
+Italian Grand Prix,27,18,8.966,26.0,14.0,-12.0,0
+Azerbaijan Grand Prix,1,55,4.166,11.0,11.0,0.0,0
+Azerbaijan Grand Prix,11,81,2.063,12.0,12.0,0.0,0
+Azerbaijan Grand Prix,14,63,3.91,11.0,10.0,-1.0,0
+Azerbaijan Grand Prix,43,14,1.474,9.0,10.0,1.0,0
+Azerbaijan Grand Prix,50,27,3.071,13.0,13.0,0.0,0
+Azerbaijan Grand Prix,81,16,5.901,14.0,14.0,0.0,0
+Singapore Grand Prix,1,4,24.711,28.0,28.0,0.0,0
+Singapore Grand Prix,63,1,12.583,26.0,26.0,0.0,0
+Singapore Grand Prix,14,27,1.067,25.0,24.0,-1.0,0
+Singapore Grand Prix,11,43,4.613,27.0,27.0,0.0,0
+Singapore Grand Prix,77,24,2.376,32.0,32.0,0.0,0
+Singapore Grand Prix,3,23,2.278,9.0,9.0,0.0,0
+United States Grand Prix,1,16,10.669,24.0,24.0,0.0,0
+United States Grand Prix,20,10,2.409,16.0,16.0,0.0,0
+United States Grand Prix,20,43,3.1,20.0,37.0,17.0,0
+United States Grand Prix,30,63,12.102,35.0,35.0,0.0,0
+United States Grand Prix,55,1,1.607,20.0,20.0,0.0,0
+Mexico City Grand Prix,4,16,6.725,29.0,29.0,0.0,0
+Mexico City Grand Prix,16,55,8.197,30.0,30.0,0.0,0
+Mexico City Grand Prix,44,63,5.001,27.0,27.0,0.0,0
+Mexico City Grand Prix,1,16,5.743,25.0,25.0,0.0,0
+Mexico City Grand Prix,20,63,13.473,29.0,29.0,0.0,0
+Mexico City Grand Prix,27,20,3.427,28.0,28.0,0.0,0
+Mexico City Grand Prix,10,27,3.481,27.0,27.0,0.0,0
+Mexico City Grand Prix,31,77,3.286,47.0,48.0,1.0,0
+Las Vegas Grand Prix,44,16,0.69,14.0,17.0,3.0,0
+Las Vegas Grand Prix,55,63,5.612,9.0,10.0,1.0,0
+Las Vegas Grand Prix,16,1,0.799,8.0,8.0,0.0,0
+Las Vegas Grand Prix,16,63,16.366,21.0,19.0,-2.0,0
+Las Vegas Grand Prix,1,63,8.071,10.0,11.0,1.0,0
+Las Vegas Grand Prix,1,63,11.271,15.0,15.0,0.0,0
+Las Vegas Grand Prix,4,16,11.532,20.0,20.0,0.0,0
+Las Vegas Grand Prix,81,22,0.614,14.0,15.0,1.0,0
+Las Vegas Grand Prix,27,11,0.474,13.0,13.0,0.0,0
+Las Vegas Grand Prix,22,44,0.716,9.0,9.0,0.0,0
+Las Vegas Grand Prix,24,31,0.678,11.0,10.0,-1.0,0
+Las Vegas Grand Prix,43,77,0.708,15.0,15.0,0.0,0
+Las Vegas Grand Prix,43,18,1.889,9.0,17.0,8.0,0
+Las Vegas Grand Prix,31,27,1.082,10.0,10.0,0.0,0
+Las Vegas Grand Prix,31,11,4.15,11.0,11.0,0.0,0
+Las Vegas Grand Prix,10,1,6.879,9.0,9.0,0.0,0
+Abu Dhabi Grand Prix,18,20,1.575,11.0,10.0,-1.0,0
+Abu Dhabi Grand Prix,20,18,1.801,16.0,18.0,2.0,0
+Abu Dhabi Grand Prix,30,77,13.472,5.0,22.0,17.0,1
+Abu Dhabi Grand Prix,55,4,3.807,24.0,24.0,0.0,0
+Abu Dhabi Grand Prix,81,14,1.973,27.0,19.0,-8.0,0
+Australian Grand Prix,12,10,0.364,10.0,10.0,0.0,1
+Australian Grand Prix,63,1,3.83,9.0,9.0,0.0,0
+Chinese Grand Prix,63,4,2.572,13.0,13.0,0.0,0
+Chinese Grand Prix,1,16,5.579,12.0,12.0,0.0,0
+Chinese Grand Prix,31,6,1.101,10.0,10.0,0.0,0
+Chinese Grand Prix,12,1,1.802,11.0,11.0,0.0,0
+Chinese Grand Prix,5,30,14.074,24.0,7.0,-17.0,0
+Chinese Grand Prix,22,12,1.756,10.0,10.0,0.0,0
+Chinese Grand Prix,22,18,2.503,23.0,34.0,11.0,0
+Chinese Grand Prix,44,63,2.42,12.0,12.0,0.0,0
+Japanese Grand Prix,81,4,2.52,19.0,19.0,0.0,0
+Japanese Grand Prix,63,16,2.091,18.0,18.0,0.0,0
+Japanese Grand Prix,44,12,4.41,29.0,29.0,0.0,0
+Japanese Grand Prix,6,44,3.356,24.0,24.0,0.0,0
+Japanese Grand Prix,23,6,3.129,23.0,23.0,0.0,0
+Japanese Grand Prix,22,10,0.644,22.0,22.0,0.0,0
+Japanese Grand Prix,31,55,1.336,32.0,31.0,-1.0,0
+Japanese Grand Prix,5,31,1.245,30.0,31.0,1.0,0
+Bahrain Grand Prix,63,81,3.936,15.0,15.0,0.0,0
+Bahrain Grand Prix,4,63,0.975,12.0,12.0,0.0,0
+Bahrain Grand Prix,1,12,1.198,12.0,12.0,0.0,0
+Bahrain Grand Prix,1,12,2.184,15.0,13.0,-2.0,0
+Bahrain Grand Prix,31,7,0.808,7.0,7.0,0.0,0
+Bahrain Grand Prix,87,23,1.648,13.0,13.0,0.0,0
+Bahrain Grand Prix,12,16,4.207,14.0,11.0,-3.0,0
+Bahrain Grand Prix,7,22,0.893,8.0,11.0,3.0,0
+Bahrain Grand Prix,30,14,1.702,13.0,13.0,0.0,0
+Bahrain Grand Prix,18,30,1.992,11.0,11.0,0.0,0
+Bahrain Grand Prix,55,44,5.871,16.0,13.0,-3.0,0
+Saudi Arabian Grand Prix,81,1,2.814,18.0,18.0,0.0,0
+Saudi Arabian Grand Prix,14,30,1.441,19.0,18.0,-1.0,0
+Saudi Arabian Grand Prix,87,14,3.169,17.0,18.0,1.0,0
+Miami Grand Prix,12,1,2.128,,,,0
+Miami Grand Prix,5,6,3.556,,,,0
+Miami Grand Prix,55,23,3.758,,,,0
+Emilia Romagna Grand Prix,10,5,0.917,8.0,8.0,0.0,0
+Emilia Romagna Grand Prix,16,18,0.605,9.0,12.0,3.0,0
+Emilia Romagna Grand Prix,30,5,1.993,9.0,9.0,0.0,0
+Emilia Romagna Grand Prix,55,14,0.789,10.0,13.0,3.0,0
+Emilia Romagna Grand Prix,63,81,5.778,13.0,10.0,-3.0,0
+Monaco Grand Prix,16,4,5.403,26.0,29.0,3.0,0
+Monaco Grand Prix,31,44,2.61,15.0,15.0,0.0,0
+Monaco Grand Prix,81,16,2.827,19.0,19.0,0.0,0
+Monaco Grand Prix,81,16,9.145,27.0,25.0,-2.0,0
+Spanish Grand Prix,1,4,4.454,17.0,25.0,8.0,0
+Spanish Grand Prix,14,5,2.476,16.0,17.0,1.0,0
+Spanish Grand Prix,14,30,4.833,27.0,23.0,-4.0,0
+Spanish Grand Prix,16,4,8.856,17.0,16.0,-1.0,0
+Spanish Grand Prix,22,5,4.171,19.0,24.0,5.0,0
+Spanish Grand Prix,27,6,11.561,35.0,25.0,-10.0,0
+Spanish Grand Prix,30,6,7.061,17.0,20.0,3.0,0
+Spanish Grand Prix,30,27,9.603,25.0,34.0,9.0,0
+Spanish Grand Prix,31,22,2.208,22.0,18.0,-4.0,0
+Spanish Grand Prix,4,81,5.378,20.0,20.0,0.0,0
+Spanish Grand Prix,4,81,5.454,26.0,25.0,-1.0,0
+Spanish Grand Prix,44,16,3.958,18.0,16.0,-2.0,0
+Spanish Grand Prix,44,1,21.996,29.0,16.0,-13.0,0
+Spanish Grand Prix,6,12,5.968,21.0,21.0,0.0,0
+Spanish Grand Prix,63,44,1.891,20.0,24.0,4.0,0
+Canadian Grand Prix,1,63,2.27,14.0,14.0,0.0,0
+Canadian Grand Prix,1,63,5.257,24.0,24.0,0.0,0
+Canadian Grand Prix,12,63,6.763,24.0,25.0,1.0,0
+Canadian Grand Prix,44,81,2.769,14.0,14.0,0.0,0
+Austrian Grand Prix,16,81,13.042,23.0,24.0,1.0,0
+Austrian Grand Prix,63,44,20.942,26.0,18.0,-8.0,0
+Austrian Grand Prix,5,44,11.946,20.0,20.0,0.0,0
+Austrian Grand Prix,5,44,26.213,27.0,22.0,-5.0,0
+Austrian Grand Prix,10,23,1.04,14.0,11.0,-3.0,0
+Austrian Grand Prix,10,87,2.038,25.0,26.0,1.0,0
+Austrian Grand Prix,22,31,2.978,17.0,17.0,0.0,0
+British Grand Prix,12,63,8.881,6.0,8.0,2.0,0
+British Grand Prix,14,63,1.291,25.0,26.0,1.0,0
+British Grand Prix,18,22,0.952,3.0,9.0,6.0,0
+British Grand Prix,22,31,20.192,29.0,22.0,-7.0,0
+British Grand Prix,27,22,1.104,8.0,8.0,0.0,0
+British Grand Prix,27,4,31.939,32.0,30.0,-2.0,0
+British Grand Prix,44,27,2.488,29.0,31.0,2.0,0
+British Grand Prix,55,16,4.901,29.0,30.0,1.0,0
+British Grand Prix,87,23,0.779,30.0,28.0,-2.0,0
+Belgian Grand Prix,16,4,8.366,11.0,11.0,0.0,0
+Belgian Grand Prix,44,87,1.133,10.0,10.0,0.0,0
+Belgian Grand Prix,30,6,0.656,11.0,11.0,0.0,0
+Belgian Grand Prix,14,12,1.175,10.0,10.0,0.0,0
+Belgian Grand Prix,14,12,1.737,17.0,16.0,-1.0,0
+Belgian Grand Prix,55,43,0.842,13.0,13.0,0.0,0
+Belgian Grand Prix,43,31,5.808,11.0,11.0,0.0,0
+Hungarian Grand Prix,81,16,2.508,17.0,17.0,0.0,0
+Hungarian Grand Prix,63,81,9.737,23.0,25.0,2.0,0
+Hungarian Grand Prix,18,5,5.495,36.0,35.0,-1.0,0
+Hungarian Grand Prix,27,44,3.627,35.0,40.0,5.0,0
+Dutch Grand Prix,12,16,2.175,27.0,29.0,2.0,0
+Italian Grand Prix,81,4,3.723,44.0,44.0,0.0,0
+Italian Grand Prix,18,31,2.266,49.0,48.0,-1.0,0
+Azerbaijan Grand Prix,63,1,14.183,38.0,38.0,0.0,0
+Azerbaijan Grand Prix,12,30,0.463,22.0,23.0,1.0,0
+Azerbaijan Grand Prix,22,63,8.485,37.0,37.0,0.0,0
+Azerbaijan Grand Prix,4,22,1.935,36.0,36.0,0.0,0
+Azerbaijan Grand Prix,44,4,7.276,35.0,35.0,0.0,0
+Azerbaijan Grand Prix,14,5,1.926,23.0,20.0,-3.0,0
+Azerbaijan Grand Prix,43,14,7.13,15.0,18.0,3.0,0
+Singapore Grand Prix,12,81,8.078,24.0,24.0,0.0,0
+Singapore Grand Prix,44,12,4.174,23.0,23.0,0.0,0
+Singapore Grand Prix,87,14,6.241,22.0,25.0,3.0,0
+United States Grand Prix,10,18,3.208,26.0,26.0,0.0,0
+United States Grand Prix,14,27,8.288,30.0,29.0,-1.0,0
+United States Grand Prix,18,30,4.3,27.0,27.0,0.0,0
+United States Grand Prix,22,63,7.708,28.0,28.0,0.0,0
+United States Grand Prix,4,1,9.805,31.0,31.0,0.0,0
+United States Grand Prix,43,23,5.966,31.0,24.0,-7.0,0
+United States Grand Prix,44,4,8.153,30.0,30.0,0.0,0
+United States Grand Prix,6,43,2.589,27.0,27.0,0.0,0
+United States Grand Prix,81,44,5.105,29.0,29.0,0.0,0
+Mexico City Grand Prix,12,63,1.259,24.0,21.0,-3.0,0
+Mexico City Grand Prix,16,4,16.96,30.0,30.0,0.0,0
+Mexico City Grand Prix,23,18,3.831,40.0,15.0,-25.0,0
+Mexico City Grand Prix,81,63,1.221,26.0,26.0,0.0,0
+São Paulo Grand Prix,10,30,0.651,20.0,20.0,0.0,0
+São Paulo Grand Prix,12,4,7.863,25.0,19.0,-6.0,0
+São Paulo Grand Prix,22,14,1.139,21.0,23.0,2.0,0
+São Paulo Grand Prix,23,27,1.303,40.0,34.0,-6.0,0
+São Paulo Grand Prix,63,81,8.935,37.0,33.0,-4.0,0
+São Paulo Grand Prix,63,4,12.331,14.0,20.0,6.0,0
+São Paulo Grand Prix,81,1,3.505,14.0,16.0,2.0,0
+São Paulo Grand Prix,87,6,1.287,18.0,19.0,1.0,0
+Las Vegas Grand Prix,16,1,20.245,23.0,23.0,0.0,0
+Las Vegas Grand Prix,6,81,3.333,19.0,19.0,0.0,0
+Las Vegas Grand Prix,44,27,0.801,28.0,28.0,0.0,0
+Las Vegas Grand Prix,4,1,3.426,21.0,21.0,0.0,0
+Las Vegas Grand Prix,81,16,1.622,20.0,20.0,0.0,0
+Qatar Grand Prix,10,31,0.992,24.0,22.0,-2.0,0
+Abu Dhabi Grand Prix,16,4,6.126,22.0,22.0,0.0,0
+Abu Dhabi Grand Prix,63,16,3.096,13.0,13.0,0.0,0
+Abu Dhabi Grand Prix,6,5,3.25,13.0,13.0,0.0,0
