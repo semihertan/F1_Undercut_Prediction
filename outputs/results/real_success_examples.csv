@@ -1,0 +1,6 @@
+Race,Driver,Car_Ahead,Gap,Tyre_Advantage,AI_Probability_%,Success
+Canadian Grand Prix,18,27,0.303,0.0,98.5,1
+Dutch Grand Prix,31,44,0.266,0.0,98.0,1
+Abu Dhabi Grand Prix,30,77,13.472,17.0,97.5,1
+Monaco Grand Prix,44,55,3.079,-2.0,96.0,1
+Austrian Grand Prix,77,5,1.275,-12.0,92.5,1
